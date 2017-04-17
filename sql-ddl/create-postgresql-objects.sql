@@ -24,7 +24,8 @@ create table myr_image(
   img_internalfilename character varying(40),
   img_type character varying(12),
   img_height integer,
-  img_width integer
+  img_width integer,
+  tag character varying(80)
 ) 
 with (oids = false);
 
