@@ -1,0 +1,13 @@
+{
+    "name": "ava007/myrealm",
+    "description": "web app to share images, link, etc.",
+    "type": "project",
+    "require": {
+        "php": ">=7.0",
+        "cakephp/cakephp": ">=3.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "prefer-stable": true
+}
