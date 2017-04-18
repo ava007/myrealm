@@ -9,5 +9,5 @@
     "require-dev": {
         "phpunit/phpunit": "*"
     },
-    "prefer-stable": true
+    //"prefer-stable": true
 }
