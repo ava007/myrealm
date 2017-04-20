@@ -11,7 +11,7 @@
     },
     "autoload": {
 		"psr-4": {
- 		"cakephp3\\": "cakephp3"
+ 		"App\": ["src", "/vendor/cakephp/cakephp"]
 		}
 	},
     "prefer-stable": false
